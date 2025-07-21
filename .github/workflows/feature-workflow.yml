@@ -11,13 +11,13 @@ on:
 jobs:
   deploy_feature_store:
     runs-on: ubuntu-latest
-    steps:
+    ssteps:
       - name: Checkout code
         uses: actions/checkout@v4
 
       - name: Build Docker image
         run: |
-          cd decision-feature-pipeline/decision_feature_store
+          cd ./decision_feature_store
           docker build -t feast-ui .
 
       - name: Start Feast web service

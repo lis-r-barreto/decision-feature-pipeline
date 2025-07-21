@@ -366,7 +366,7 @@ def pre_processar(df):
 
 if __name__ == "__main__":
     # Caminhos locais dos arquivos (ajuste conforme necessário)
-    path = "/home/d3v0tchk4/Documents/repos/decision_feature_store/feature_repo/data/"
+    path = "./decision_feature_store/feature_repo/data/"
     caminho_prospects = f"{path}prospects.json"
     caminho_vagas = f"{path}vagas.json"
     caminho_applicants = f"{path}applicants.json"

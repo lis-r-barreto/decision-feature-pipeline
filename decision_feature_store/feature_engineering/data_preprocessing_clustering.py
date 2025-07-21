@@ -29,9 +29,9 @@ warnings.filterwarnings('ignore')
 
 class ProcessadorDados3ClustersMelhorado:
     def __init__(self):
-        self.data_dir = '/home/d3v0tchk4/Documents/repos/decision-feature-pipeline/decision_feature_store/feature_repo/data'
-        self.artifacts_dir = '/home/d3v0tchk4/Documents/repos/decision-feature-pipeline/decision_feature_store/feature_repo/artifacts'
-        self.reports_dir = '/home/d3v0tchk4/Documents/repos/decision-feature-pipeline/decision_feature_store/feature_repo/reports'
+        self.data_dir = './decision_feature_store/feature_repo/data'
+        self.artifacts_dir = './decision_feature_store/feature_repo/artifacts'
+        self.reports_dir = './decision_feature_store/feature_repo/reports'
         
         # Criar diretorios se nao existirem
         for directory in [self.artifacts_dir, self.reports_dir]:

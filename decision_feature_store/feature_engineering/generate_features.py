@@ -205,7 +205,7 @@ def run_feature_engineering_pipeline(data_path: str, artifacts_path: str, output
 
 
 if __name__ == "__main__":
-    BASE_DIR = '/home/d3v0tchk4/Documents/repos/decision_feature_store/feature_repo/'
+    BASE_DIR = './decision_feature_store/feature_repo/'
     DATA_PATH = os.path.join(BASE_DIR, 'data/', 'decision_features.parquet')
     ARTIFACTS_PATH = os.path.join(BASE_DIR, 'artifacts/')
     OUTPUT_PATH = os.path.join(BASE_DIR, 'data/')

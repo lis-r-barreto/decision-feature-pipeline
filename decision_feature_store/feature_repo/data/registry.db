@@ -1,0 +1,471 @@
+
+I
+)
+vaga"id_vagaJdecision_feature_store
+°˝Ô√–§¢ô°˝Ô√–§¢ô
+M
+-
+__dummy"
+__dummy_idJdecision_feature_store
+°˝Ô√»Ë®ô°˝Ô√»Ë®ô1"$4850a1fe-d136-4cda-8cfa-62fef0119d53*°æ˘√ò¡¡¯2¡
+†
+decision_features_clusteringdecision_feature_storevaga"
+match_score_semantico"
+match_score_normalizado"
+match_score_combinado"
+skills_comuns"
+cv_skills_count"
+diversidade_skills"
+taxa_sucesso_recrutador"
+experiencia_recrutador"
+taxa_sucesso_modalidade"
+concorrencia_vaga"
+log_concorrencia"
+cv_quality_score"
+completude_perfil"
+mes_candidatura"
+	trimestre"
+
+dia_semana"
+is_inicio_ano"
+is_meio_ano"
+
+is_fim_ano"
+tempo_perfil_candidatura"
+tempo_vaga_candidatura""
+match_x_experiencia_recrutador"#
+match_x_taxa_sucesso_recrutador"$
+ skills_x_taxa_sucesso_modalidade"
+concorrencia_x_match"
+match_per_concorrencia"
+skills_per_experiencia"
+modalidade_encoded"
+recrutador_encoded"
+sexo_encoded"
+estado_civil_encoded"
+nivel_academico_encoded"
+nivel_ingles_encoded"
+nivel_profissional_encoded"
+tipo_contratacao_encoded"
+cliente_encoded"
+requisitante_encoded"
+pais_encoded"
+estado_vaga_encoded"
+cidade_vaga_encoded"
+cv_tem_experiencia"
+cv_tem_projeto"
+cv_tem_desenvolvimento"
+cv_tem_gestao"
+cv_tem_lideranca"
+cv_tem_equipe"
+cv_tem_resultado"
+cluster_target*
+team
+recruiting2Äöû:°event_timestampZ20data/processed_data_3_clusters_melhorado.parquetä1feast.infra.offline_stores.file_source.FileSource¢#decision_features_clustering_sourceb
+id_vaga
+à∏˘√‡ôµ◊∏˘√†˚√é2Ω
+û
+decision_features_matchdecision_feature_storevaga"
+tfidf_0"
+tfidf_1"
+tfidf_2"
+tfidf_3"
+tfidf_4"
+tfidf_5"
+tfidf_6"
+tfidf_7"
+tfidf_8"
+tfidf_9"
+tfidf_10"
+tfidf_11"
+tfidf_12"
+tfidf_13"
+tfidf_14"
+tfidf_15"
+tfidf_16"
+tfidf_17"
+tfidf_18"
+tfidf_19"
+tfidf_20"
+tfidf_21"
+tfidf_22"
+tfidf_23"
+tfidf_24"
+tfidf_25"
+tfidf_26"
+tfidf_27"
+tfidf_28"
+tfidf_29"
+tfidf_30"
+tfidf_31"
+tfidf_32"
+tfidf_33"
+tfidf_34"
+tfidf_35"
+tfidf_36"
+tfidf_37"
+tfidf_38"
+tfidf_39"
+tfidf_40"
+tfidf_41"
+tfidf_42"
+tfidf_43"
+tfidf_44"
+tfidf_45"
+tfidf_46"
+tfidf_47"
+tfidf_48"
+tfidf_49"
+tfidf_50"
+tfidf_51"
+tfidf_52"
+tfidf_53"
+tfidf_54"
+tfidf_55"
+tfidf_56"
+tfidf_57"
+tfidf_58"
+tfidf_59"
+tfidf_60"
+tfidf_61"
+tfidf_62"
+tfidf_63"
+tfidf_64"
+tfidf_65"
+tfidf_66"
+tfidf_67"
+tfidf_68"
+tfidf_69"
+tfidf_70"
+tfidf_71"
+tfidf_72"
+tfidf_73"
+tfidf_74"
+tfidf_75"
+tfidf_76"
+tfidf_77"
+tfidf_78"
+tfidf_79"
+tfidf_80"
+tfidf_81"
+tfidf_82"
+tfidf_83"
+tfidf_84"
+tfidf_85"
+tfidf_86"
+tfidf_87"
+tfidf_88"
+tfidf_89"
+tfidf_90"
+tfidf_91"
+tfidf_92"
+tfidf_93"
+tfidf_94"
+tfidf_95"
+tfidf_96"
+tfidf_97"
+tfidf_98"
+tfidf_99"
+tipo_contratacao_clt_cotas"'
+#tipo_contratacao_clt_cotas_clt_full"E
+Atipo_contratacao_clt_cotas_clt_full_cooperado_estagio_pj_autonomo"=
+9tipo_contratacao_clt_cotas_clt_full_cooperado_pj_autonomo"3
+/tipo_contratacao_clt_cotas_clt_full_pj_autonomo"(
+$tipo_contratacao_clt_cotas_cooperado"D
+@tipo_contratacao_clt_cotas_cooperado_estagio_hunting_pj_autonomo"<
+8tipo_contratacao_clt_cotas_cooperado_estagio_pj_autonomo"*
+&tipo_contratacao_clt_cotas_pj_autonomo"
+tipo_contratacao_clt_full"'
+#tipo_contratacao_clt_full_cooperado"3
+/tipo_contratacao_clt_full_cooperado_pj_autonomo"%
+!tipo_contratacao_clt_full_hunting")
+%tipo_contratacao_clt_full_pj_autonomo"
+tipo_contratacao_cooperado"2
+.tipo_contratacao_cooperado_hunting_pj_autonomo"*
+&tipo_contratacao_cooperado_pj_autonomo"
+tipo_contratacao_estagio"
+tipo_contratacao_hunting" 
+tipo_contratacao_pj_autonomo"
+tipo_contratacao_vazio"
+nivel_profissional_analista"#
+nivel_profissional_especialista"!
+nivel_profissional_estagiario"
+nivel_profissional_junior"
+nivel_profissional_lider"
+nivel_profissional_pleno"
+nivel_profissional_senior"
+nivel_profissional_vazio"
+nivel_academico_vazio"
+nivel_ingles_avancado"
+nivel_ingles_basico"
+nivel_ingles_fluente"
+nivel_ingles_intermediario"
+nivel_ingles_nenhum"
+nivel_ingles_vazio"
+nivel_espanhol_avancado"
+nivel_espanhol_basico"
+nivel_espanhol_fluente" 
+nivel_espanhol_intermediario"
+nivel_espanhol_nenhum"
+nivel_espanhol_vazio"
+ingles_vaga_avancado"
+ingles_vaga_basico"
+ingles_vaga_fluente"
+ingles_vaga_intermediario"
+ingles_vaga_nenhum"
+ingles_vaga_tecnico"
+ingles_vaga_vazio"
+espanhol_vaga_avancado"
+espanhol_vaga_basico"
+espanhol_vaga_fluente"
+espanhol_vaga_intermediario"
+espanhol_vaga_nenhum"
+espanhol_vaga_tecnico"
+espanhol_vaga_vazio"
+nivel_academico_vaga_vazio"
+match_ingles"
+match_nivel_academico"
+match_area_atuacao"
+match_localidade"
+	match_pcd"
+qtd_keywords_cv"
+match_cv_atividade*
+team
+recruiting2Äöû:òevent_timestampZ.,data/dados_treinamento_transformados.parquetä1feast.infra.offline_stores.file_source.FileSource¢decision_features_match_sourceb
+id_vaga
+íπ˘√¯ﬁ∆;íπ˘√¯ﬁ∆;:ö'
+˙&
+vaga_model_servicedecision_feature_store£
+decision_features_match
+tfidf_0
+tfidf_1
+tfidf_2
+tfidf_3
+tfidf_4
+tfidf_5
+tfidf_6
+tfidf_7
+tfidf_8
+tfidf_9
+tfidf_10
+tfidf_11
+tfidf_12
+tfidf_13
+tfidf_14
+tfidf_15
+tfidf_16
+tfidf_17
+tfidf_18
+tfidf_19
+tfidf_20
+tfidf_21
+tfidf_22
+tfidf_23
+tfidf_24
+tfidf_25
+tfidf_26
+tfidf_27
+tfidf_28
+tfidf_29
+tfidf_30
+tfidf_31
+tfidf_32
+tfidf_33
+tfidf_34
+tfidf_35
+tfidf_36
+tfidf_37
+tfidf_38
+tfidf_39
+tfidf_40
+tfidf_41
+tfidf_42
+tfidf_43
+tfidf_44
+tfidf_45
+tfidf_46
+tfidf_47
+tfidf_48
+tfidf_49
+tfidf_50
+tfidf_51
+tfidf_52
+tfidf_53
+tfidf_54
+tfidf_55
+tfidf_56
+tfidf_57
+tfidf_58
+tfidf_59
+tfidf_60
+tfidf_61
+tfidf_62
+tfidf_63
+tfidf_64
+tfidf_65
+tfidf_66
+tfidf_67
+tfidf_68
+tfidf_69
+tfidf_70
+tfidf_71
+tfidf_72
+tfidf_73
+tfidf_74
+tfidf_75
+tfidf_76
+tfidf_77
+tfidf_78
+tfidf_79
+tfidf_80
+tfidf_81
+tfidf_82
+tfidf_83
+tfidf_84
+tfidf_85
+tfidf_86
+tfidf_87
+tfidf_88
+tfidf_89
+tfidf_90
+tfidf_91
+tfidf_92
+tfidf_93
+tfidf_94
+tfidf_95
+tfidf_96
+tfidf_97
+tfidf_98
+tfidf_99
+tipo_contratacao_clt_cotas'
+#tipo_contratacao_clt_cotas_clt_fullE
+Atipo_contratacao_clt_cotas_clt_full_cooperado_estagio_pj_autonomo=
+9tipo_contratacao_clt_cotas_clt_full_cooperado_pj_autonomo3
+/tipo_contratacao_clt_cotas_clt_full_pj_autonomo(
+$tipo_contratacao_clt_cotas_cooperadoD
+@tipo_contratacao_clt_cotas_cooperado_estagio_hunting_pj_autonomo<
+8tipo_contratacao_clt_cotas_cooperado_estagio_pj_autonomo*
+&tipo_contratacao_clt_cotas_pj_autonomo
+tipo_contratacao_clt_full'
+#tipo_contratacao_clt_full_cooperado3
+/tipo_contratacao_clt_full_cooperado_pj_autonomo%
+!tipo_contratacao_clt_full_hunting)
+%tipo_contratacao_clt_full_pj_autonomo
+tipo_contratacao_cooperado2
+.tipo_contratacao_cooperado_hunting_pj_autonomo*
+&tipo_contratacao_cooperado_pj_autonomo
+tipo_contratacao_estagio
+tipo_contratacao_hunting 
+tipo_contratacao_pj_autonomo
+tipo_contratacao_vazio
+nivel_profissional_analista#
+nivel_profissional_especialista!
+nivel_profissional_estagiario
+nivel_profissional_junior
+nivel_profissional_lider
+nivel_profissional_pleno
+nivel_profissional_senior
+nivel_profissional_vazio
+nivel_academico_vazio
+nivel_ingles_avancado
+nivel_ingles_basico
+nivel_ingles_fluente
+nivel_ingles_intermediario
+nivel_ingles_nenhum
+nivel_ingles_vazio
+nivel_espanhol_avancado
+nivel_espanhol_basico
+nivel_espanhol_fluente 
+nivel_espanhol_intermediario
+nivel_espanhol_nenhum
+nivel_espanhol_vazio
+ingles_vaga_avancado
+ingles_vaga_basico
+ingles_vaga_fluente
+ingles_vaga_intermediario
+ingles_vaga_nenhum
+ingles_vaga_tecnico
+ingles_vaga_vazio
+espanhol_vaga_avancado
+espanhol_vaga_basico
+espanhol_vaga_fluente
+espanhol_vaga_intermediario
+espanhol_vaga_nenhum
+espanhol_vaga_tecnico
+espanhol_vaga_vazio
+nivel_academico_vaga_vazio
+match_ingles
+match_nivel_academico
+match_area_atuacao
+match_localidade
+	match_pcd
+qtd_keywords_cv
+match_cv_atividadeBdevent_timestampZ.,data/dados_treinamento_transformados.parquet¢decision_features_match_source•
+
+decision_features_clustering
+match_score_semantico
+match_score_normalizado
+match_score_combinado
+skills_comuns
+cv_skills_count
+diversidade_skills
+taxa_sucesso_recrutador
+experiencia_recrutador
+taxa_sucesso_modalidade
+concorrencia_vaga
+log_concorrencia
+cv_quality_score
+completude_perfil
+mes_candidatura
+	trimestre
+
+dia_semana
+is_inicio_ano
+is_meio_ano
+
+is_fim_ano
+tempo_perfil_candidatura
+tempo_vaga_candidatura"
+match_x_experiencia_recrutador#
+match_x_taxa_sucesso_recrutador$
+ skills_x_taxa_sucesso_modalidade
+concorrencia_x_match
+match_per_concorrencia
+skills_per_experiencia
+modalidade_encoded
+recrutador_encoded
+sexo_encoded
+estado_civil_encoded
+nivel_academico_encoded
+nivel_ingles_encoded
+nivel_profissional_encoded
+tipo_contratacao_encoded
+cliente_encoded
+requisitante_encoded
+pais_encoded
+estado_vaga_encoded
+cidade_vaga_encoded
+cv_tem_experiencia
+cv_tem_projeto
+cv_tem_desenvolvimento
+cv_tem_gestao
+cv_tem_lideranca
+cv_tem_equipe
+cv_tem_resultado
+cluster_targetBmevent_timestampZ20data/processed_data_3_clusters_melhorado.parquet¢#decision_features_clustering_source
+°˝Ô√à∏Õôíπ˘√®”ò<Rµ
+’
+,feast.infra.online_stores.sqlite.SqliteTable"§
+r/home/d3v0tchk4/Documents/repos/decision-feature-pipeline/decision_feature_store/feature_repo/data/online_store.db.decision_feature_store_decision_features_match
+⁄
+,feast.infra.online_stores.sqlite.SqliteTable"©
+r/home/d3v0tchk4/Documents/repos/decision-feature-pipeline/decision_feature_store/feature_repo/data/online_store.db3decision_feature_store_decision_features_clusteringZﬂO
+ºO
+vagas_training_datasetdecision_feature_storedecision_features:tfidf_0decision_features:tfidf_1decision_features:tfidf_2decision_features:tfidf_3decision_features:tfidf_4decision_features:tfidf_5decision_features:tfidf_6decision_features:tfidf_7decision_features:tfidf_8decision_features:tfidf_9decision_features:tfidf_10decision_features:tfidf_11decision_features:tfidf_12decision_features:tfidf_13decision_features:tfidf_14decision_features:tfidf_15decision_features:tfidf_16decision_features:tfidf_17decision_features:tfidf_18decision_features:tfidf_19decision_features:tfidf_20decision_features:tfidf_21decision_features:tfidf_22decision_features:tfidf_23decision_features:tfidf_24decision_features:tfidf_25decision_features:tfidf_26decision_features:tfidf_27decision_features:tfidf_28decision_features:tfidf_29decision_features:tfidf_30decision_features:tfidf_31decision_features:tfidf_32decision_features:tfidf_33decision_features:tfidf_34decision_features:tfidf_35decision_features:tfidf_36decision_features:tfidf_37decision_features:tfidf_38decision_features:tfidf_39decision_features:tfidf_40decision_features:tfidf_41decision_features:tfidf_42decision_features:tfidf_43decision_features:tfidf_44decision_features:tfidf_45decision_features:tfidf_46decision_features:tfidf_47decision_features:tfidf_48decision_features:tfidf_49decision_features:tfidf_50decision_features:tfidf_51decision_features:tfidf_52decision_features:tfidf_53decision_features:tfidf_54decision_features:tfidf_55decision_features:tfidf_56decision_features:tfidf_57decision_features:tfidf_58decision_features:tfidf_59decision_features:tfidf_60decision_features:tfidf_61decision_features:tfidf_62decision_features:tfidf_63decision_features:tfidf_64decision_features:tfidf_65decision_features:tfidf_66decision_features:tfidf_67decision_features:tfidf_68decision_features:tfidf_69decision_features:tfidf_70decision_features:tfidf_71decision_features:tfidf_72decision_features:tfidf_73decision_features:tfidf_74decision_features:tfidf_75decision_features:tfidf_76decision_features:tfidf_77decision_features:tfidf_78decision_features:tfidf_79decision_features:tfidf_80decision_features:tfidf_81decision_features:tfidf_82decision_features:tfidf_83decision_features:tfidf_84decision_features:tfidf_85decision_features:tfidf_86decision_features:tfidf_87decision_features:tfidf_88decision_features:tfidf_89decision_features:tfidf_90decision_features:tfidf_91decision_features:tfidf_92decision_features:tfidf_93decision_features:tfidf_94decision_features:tfidf_95decision_features:tfidf_96decision_features:tfidf_97decision_features:tfidf_98decision_features:tfidf_99,decision_features:tipo_contratacao_clt_cotas5decision_features:tipo_contratacao_clt_cotas_clt_fullSdecision_features:tipo_contratacao_clt_cotas_clt_full_cooperado_estagio_pj_autonomoKdecision_features:tipo_contratacao_clt_cotas_clt_full_cooperado_pj_autonomoAdecision_features:tipo_contratacao_clt_cotas_clt_full_pj_autonomo6decision_features:tipo_contratacao_clt_cotas_cooperadoRdecision_features:tipo_contratacao_clt_cotas_cooperado_estagio_hunting_pj_autonomoJdecision_features:tipo_contratacao_clt_cotas_cooperado_estagio_pj_autonomo8decision_features:tipo_contratacao_clt_cotas_pj_autonomo+decision_features:tipo_contratacao_clt_full5decision_features:tipo_contratacao_clt_full_cooperadoAdecision_features:tipo_contratacao_clt_full_cooperado_pj_autonomo3decision_features:tipo_contratacao_clt_full_hunting7decision_features:tipo_contratacao_clt_full_pj_autonomo,decision_features:tipo_contratacao_cooperado@decision_features:tipo_contratacao_cooperado_hunting_pj_autonomo8decision_features:tipo_contratacao_cooperado_pj_autonomo*decision_features:tipo_contratacao_estagio*decision_features:tipo_contratacao_hunting.decision_features:tipo_contratacao_pj_autonomo(decision_features:tipo_contratacao_vazio-decision_features:nivel_profissional_analista1decision_features:nivel_profissional_especialista/decision_features:nivel_profissional_estagiario+decision_features:nivel_profissional_junior*decision_features:nivel_profissional_lider*decision_features:nivel_profissional_pleno+decision_features:nivel_profissional_senior*decision_features:nivel_profissional_vazio'decision_features:nivel_academico_vazio'decision_features:nivel_ingles_avancado%decision_features:nivel_ingles_basico&decision_features:nivel_ingles_fluente,decision_features:nivel_ingles_intermediario%decision_features:nivel_ingles_nenhum$decision_features:nivel_ingles_vazio)decision_features:nivel_espanhol_avancado'decision_features:nivel_espanhol_basico(decision_features:nivel_espanhol_fluente.decision_features:nivel_espanhol_intermediario'decision_features:nivel_espanhol_nenhum&decision_features:nivel_espanhol_vazio&decision_features:ingles_vaga_avancado$decision_features:ingles_vaga_basico%decision_features:ingles_vaga_fluente+decision_features:ingles_vaga_intermediario$decision_features:ingles_vaga_nenhum%decision_features:ingles_vaga_tecnico#decision_features:ingles_vaga_vazio(decision_features:espanhol_vaga_avancado&decision_features:espanhol_vaga_basico'decision_features:espanhol_vaga_fluente-decision_features:espanhol_vaga_intermediario&decision_features:espanhol_vaga_nenhum'decision_features:espanhol_vaga_tecnico%decision_features:espanhol_vaga_vazio,decision_features:nivel_academico_vaga_vaziodecision_features:match_ingles'decision_features:match_nivel_academico$decision_features:match_area_atuacao"decision_features:match_localidadedecision_features:match_pcd!decision_features:qtd_keywords_cv$decision_features:match_cv_atividade"tfidf_52"nivel_profissional_junior"+nivel_academico_ensino fundamental cursando"tfidf_0"tfidf_65"nivel_profissional_lider"espanhol_vaga_basico"tfidf_17"tfidf_38"tfidf_68"tfidf_41"tfidf_81"nivel_profissional_senior"tfidf_34"id_vaga"tfidf_5"tfidf_54"	match_pcd"+nivel_academico_vaga_pos graduacao completo"ingles_vaga_avancado".nivel_academico_vaga_ensino tecnico incompleto"tipo_contratacao_estagio"(nivel_academico_pos graduacao incompleto"$tipo_contratacao_clt_cotas_cooperado"'nivel_academico_ensino medio incompleto"tfidf_77"nivel_profissional_estagiario"match_area_atuacao"tfidf_27"9tipo_contratacao_clt_cotas_clt_full_cooperado_pj_autonomo"tfidf_18"
+contratado"(nivel_academico_ensino superior completo"tfidf_44"nivel_ingles_basico"tfidf_90"'nivel_academico_ensino tecnico completo",nivel_academico_vaga_ensino medio incompleto"tfidf_14"tfidf_74"tfidf_88",nivel_academico_vaga_ensino tecnico completo"tfidf_15"tfidf_7"tfidf_29"tfidf_25"&tipo_contratacao_cooperado_pj_autonomo""nivel_academico_doutorado completo"tfidf_35"tfidf_83"&nivel_academico_vaga_mestrado completo"tfidf_13"tipo_contratacao_clt_cotas"#nivel_academico_mestrado incompleto"tfidf_22"nivel_ingles_fluente"match_localidade"tfidf_58"tfidf_55"espanhol_vaga_vazio"-nivel_academico_vaga_ensino superior completo"tfidf_95"tfidf_63"tfidf_86"%nivel_academico_ensino medio completo"@tipo_contratacao_clt_cotas_cooperado_estagio_hunting_pj_autonomo"+nivel_academico_vaga_pos graduacao cursando"%tipo_contratacao_clt_full_pj_autonomo"nivel_espanhol_nenhum"tfidf_61"tfidf_24"nivel_espanhol_avancado"ingles_vaga_vazio"-nivel_academico_vaga_ensino superior cursando"tfidf_76"qtd_keywords_cv"tfidf_12"nivel_profissional_especialista"tfidf_57"tfidf_33""nivel_academico_doutorado cursando"tfidf_92"nivel_profissional_analista"tfidf_11"tfidf_10"tfidf_32"0nivel_academico_vaga_ensino fundamental completo"tfidf_31"tipo_contratacao_pj_autonomo"tfidf_16"tfidf_3"ingles_vaga_fluente")nivel_academico_ensino tecnico incompleto"nivel_academico_vazio"tfidf_8"&tipo_contratacao_clt_cotas_pj_autonomo"tfidf_9"match_ingles"/nivel_academico_vaga_ensino superior incompleto"tfidf_48"tfidf_99"8tipo_contratacao_clt_cotas_cooperado_estagio_pj_autonomo")nivel_profissional_tecnico de nivel medio"nivel_espanhol_fluente"*nivel_academico_ensino superior incompleto"tfidf_1"tfidf_45"tfidf_93"tfidf_91"tfidf_36"tfidf_51"tfidf_40"tipo_contratacao_vazio"tfidf_26"tfidf_85"tfidf_96"nivel_ingles_intermediario"tfidf_28"#tipo_contratacao_clt_cotas_clt_full"tfidf_47"ingles_vaga_basico"tfidf_70"tfidf_30"tfidf_87"&nivel_academico_pos graduacao cursando"nivel_espanhol_vazio"/tipo_contratacao_clt_full_cooperado_pj_autonomo"tfidf_67"tfidf_71"tfidf_72"tfidf_2"*nivel_academico_vaga_ensino medio completo"tfidf_66"ingles_vaga_nenhum"tfidf_4"nivel_profissional_pleno"$nivel_academico_doutorado incompleto"nivel_ingles_nenhum"'nivel_academico_ensino tecnico cursando"espanhol_vaga_tecnico"tfidf_6"nivel_espanhol_intermediario"tfidf_82"ingles_vaga_tecnico"tfidf_84"/tipo_contratacao_clt_cotas_clt_full_pj_autonomo"-nivel_academico_vaga_pos graduacao incompleto"tfidf_97"tfidf_78"nivel_ingles_vazio"tfidf_39"tfidf_56"tipo_contratacao_cooperado"!nivel_academico_mestrado cursando"espanhol_vaga_intermediario"tfidf_62"tfidf_53"tfidf_98"match_cv_atividade"tfidf_80"tfidf_19"tfidf_42"tfidf_75".tipo_contratacao_cooperado_hunting_pj_autonomo"(nivel_academico_ensino superior cursando"espanhol_vaga_nenhum"espanhol_vaga_fluente"match_nivel_academico"tfidf_64"nivel_profissional_vazio"!tipo_contratacao_clt_full_hunting"nivel_espanhol_basico"tfidf_46"tipo_contratacao_clt_full"ingles_vaga_intermediario"tipo_contratacao_hunting"espanhol_vaga_avancado"tfidf_23"Atipo_contratacao_clt_cotas_clt_full_cooperado_estagio_pj_autonomo"tfidf_49"tfidf_79"&nivel_academico_pos graduacao completo"tfidf_37"tfidf_59"tfidf_21"!nivel_academico_mestrado completo"%nivel_academico_ensino medio cursando"tfidf_73"tfidf_60"+nivel_academico_ensino fundamental completo"tfidf_94"tfidf_69"#tipo_contratacao_clt_full_cooperado"&nivel_academico_vaga_mestrado cursando"nivel_ingles_avancado"tfidf_20"tfidf_50"tfidf_43"nivel_academico_vaga_vazio"tfidf_892'"%
+
+ ./data/training_dataset.parquet
+ıÇ√®º˘±Äáó‡"Ä‚ìæb∫event_timestampZ20data/processed_data_3_clusters_melhorado.parquetä1feast.infra.offline_stores.file_source.FileSource¢#decision_features_clustering_source™decision_feature_storeb±event_timestampZ.,data/dados_treinamento_transformados.parquetä1feast.infra.offline_stores.file_source.FileSource¢decision_features_match_source™decision_feature_storeä^
+>
+decision_feature_store$Um projeto para features de decis√£o
+°˝Ô√à¿õç°˝Ô√à¿õç

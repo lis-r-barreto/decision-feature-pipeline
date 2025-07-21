@@ -23,11 +23,11 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r decision-feature-pipeline/decision_feature_store/requirements.txt
+          pip install -r ./decision_feature_store/requirements.txt
 
       - name: Run feature engineering scripts
         run: |
-          cd decision-feature-pipeline/decision_feature_store/feature_engineering
+          cd ./decision_feature_store/feature_engineering
           for script in *.py; do
             if [ -f "$script" ]; then
               echo "Executando $script..."
@@ -44,7 +44,7 @@ jobs:
 
       - name: Build Docker image
         run: |
-          cd decision-feature-pipeline/decision_feature_store
+          cd ./decision_feature_store
           docker build -t feast-ui .
 
       - name: Run Docker container
